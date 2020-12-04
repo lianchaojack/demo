@@ -1,4 +1,3 @@
-package demo;
 
 public class HelloWorld {
 
@@ -12,6 +11,8 @@ public class HelloWorld {
 		System.out.println("hello world");
 		
 		System.out.println("2");
+
+		System.out.print("测试分支");
 
 	}
 
